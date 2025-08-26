@@ -34,6 +34,10 @@ class Solution(object):
         return head.next
 
 
+        # time: O(n)
+        # space: O(n)
+
+
 
 
         
